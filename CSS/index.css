@@ -138,3 +138,57 @@
         height: 323px;
         width: 253px;
     }
+     .medal-brand{
+        text-transform: uppercase;
+        color: #3e4152;
+        letter-spacing: .15em;
+        font-size: 1.8em;
+        margin: 50px 0 10px 30px;
+        max-height: 5em;
+        font-weight: 700;
+    }
+    .medal-brand-content{
+        display: flex;
+        padding: 35px 0px 15px 0px;
+        flex-wrap: wrap;
+    }
+    .medal-brand-content img{
+        height: 323px;
+        width: 253px;
+    }
+    .global-brand{
+        text-transform: uppercase;
+        color: #3e4152;
+        letter-spacing: .15em;
+        font-size: 1.8em;
+        margin: 50px 0 10px 30px;
+        max-height: 5em;
+        font-weight: 700;
+    }
+    .global-brand-items{
+        display: flex;
+        padding: 35px 0px 15px 0px;
+        flex-wrap: wrap;
+    }
+    .global-brand-items img{
+        height: 323px;
+        width: 253px;
+    }
+    .category-shop{
+        text-transform: uppercase;
+        color: #3e4152;
+        letter-spacing: .15em;
+        font-size: 1.8em;
+        margin: 50px 0 10px 30px;
+        max-height: 5em;
+        font-weight: 700;
+    }
+    .category-shop-items{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .category-shop-items img{
+        height: 331px;
+        width:100%;
+    }
